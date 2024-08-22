@@ -2,6 +2,7 @@
 
 
 Workflow Overview:
+
 This analysis streamlines the process of extracting and analyzing financial data from Microsoft's 10-K filings:
 
 Download: Microsoft's 10-K filings are fetched directly from the SEC's EDGAR database.
@@ -355,7 +356,6 @@ plot_insights(years, revenues, profits)
 
 When you execute this code, you will see a plot similar to the following:
 
-![Revenue and Profit Growth](https://via.placeholder.com/800x500.png?text=Revenue+and+Profit+Growth+%282019-2023%29)
 
 This plot visually represents how Microsoft's revenue and profits have evolved over the last five years.
 
