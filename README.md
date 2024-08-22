@@ -1,10 +1,10 @@
 # 180DC-ML-WORKFLOW-Project- Microsoft 10K filings analysis
 
 This workflow anaylsis includes
-1.Downloading the 10K filings of Microsoft
-2.Formatting the data collected
-3.Cleaning and pre-processing of the formatted data 
-4.Deriving insights using the cleaned textual data using LLMs via APIs
+1.Downloading the 10K filings of Microsoft\n
+2.Formatting the data collected\n
+3.Cleaning and pre-processing of the formatted data\n 
+4.Deriving insights using the cleaned textual data using LLMs via APIs\n
 
 
 ## Step 0: Installing Required Libraries
