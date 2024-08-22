@@ -354,8 +354,6 @@ plot_insights(years, revenues, profits)
 
 ### Output
 
-When you execute this code, you will see a plot similar to the following:
-
 
 This plot visually represents how Microsoft's revenue and profits have evolved over the last five years.
 
