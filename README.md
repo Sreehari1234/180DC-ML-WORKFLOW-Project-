@@ -1,10 +1,22 @@
 # 180DC-ML-WORKFLOW-Project- Microsoft 10K filings analysis
 
 This workflow anaylsis includes
-1.Downloading the 10K filings of Microsoft\n
-2.Formatting the data collected\n
-3.Cleaning and pre-processing of the formatted data\n 
-4.Deriving insights using the cleaned textual data using LLMs via APIs\n
+1.Downloading the 10K filings of Microsoft
+2.Formatting the data collected
+3.Cleaning and pre-processing of the formatted data
+4.Deriving insights using the cleaned textual data using LLMs via APIs
+
+
+Workflow Overview
+This analysis streamlines the process of extracting and analyzing financial data from Microsoft's 10-K filings:
+
+Download: Microsoft's 10-K filings are fetched directly from the SEC's EDGAR database.
+
+Format: The downloaded data is organized into a structured format for easier handling.
+
+Clean: The formatted data is cleaned by removing irrelevant text and noise, preparing it for analysis.
+
+Analyze: The cleaned data is then analyzed using AI-powered language models to extract key insights and trends from Microsoft's financial performance.
 
 
 ## Step 0: Installing Required Libraries
